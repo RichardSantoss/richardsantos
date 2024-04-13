@@ -21,7 +21,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
-  <img align="center" alt="rafa-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
   <img align="right" alt="Rich-Gif" src="https://cdn.discordapp.com/attachments/1013905779205623869/1228454041374425259/ezgif-3-8b57fe6344.gif"> 
   
