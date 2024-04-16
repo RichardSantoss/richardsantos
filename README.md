@@ -2,7 +2,7 @@
 
 -📫 Estudando na EBAC 
 
--🌱 Estudando Linguagem C,C++
+-🌱 Estudando Linguagem C
 
 -😄 Pronomes: ele/dele
 
