@@ -10,7 +10,7 @@
 
 
 <div>
-   <a href="https://github.com/richardsantos">
+   <a href="https://github.com/RichardSantoss">
      
    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardSantoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
